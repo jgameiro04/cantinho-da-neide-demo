@@ -1,0 +1,30 @@
+:root {
+  /* Colors */
+  --color-primary: #FFB84C; /* Warm Yellow */
+  --color-secondary: #F2613F; /* Soft Orange/Red */
+  --color-accent: #9B3922; /* Light Brown/Terracotta */
+  --color-highlight: #486923; /* Green */
+  --color-background: #FFFBE9; /* Very light warm cream */
+  --color-text: #2C1810; /* Dark Brown for text */
+  --color-text-light: #6C5F5B;
+  --color-white: #FFFFFF;
+  --color-light-gray: #F5F5F5;
+
+  /* Typography */
+  --font-family-body: 'Nunito', sans-serif;
+  --font-family-heading: 'Poppins', sans-serif;
+
+  /* Spacing */
+  --spacing-xs: 0.5rem;
+  --spacing-sm: 1rem;
+  --spacing-md: 2rem;
+  --spacing-lg: 4rem;
+  --spacing-xl: 8rem;
+
+  /* Components */
+  --border-radius-sm: 8px;
+  --border-radius-md: 16px;
+  --border-radius-lg: 24px;
+  --shadow-sm: 0 2px 4px rgba(0,0,0,0.1);
+  --shadow-md: 0 4px 12px rgba(0,0,0,0.1);
+}

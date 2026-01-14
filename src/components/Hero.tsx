@@ -26,7 +26,8 @@ const Hero = () => {
                 <h1 style={{
                     fontSize: '3rem',
                     marginBottom: '1rem',
-                    textShadow: '2px 2px 4px rgba(0,0,0,0.5)'
+                    color: 'var(--color-primary)',
+                    textShadow: '2px 2px 4px rgba(0,0,0,0.8)'
                 }}>
                     Comida Caseira com Sabor a Casa
                 </h1>
